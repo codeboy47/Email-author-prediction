@@ -10,7 +10,7 @@ Five classifier algorithms are used for predictions:
 5. Random forest 
 
 | Algorithm | Training time(s) | Prediction time(s) | Accuracy |
-| --- | --- |
+| --- | --- | --- | --- |
 | Naive Bayes Classifier | 1.745 | 0.188 | 0.973265073948 |
 | Support Vector Machines Classifier | 129.289 | 12.482 | 0.990898748578 |
 | Decision Tree Classifier | 16.955 | 0.032 | 0.976678043231 |
